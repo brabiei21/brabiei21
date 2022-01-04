@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+😄 I am currently a third year electrical engineering student at UCSD specializing in Machine Learing and Controls
+🌱 I’m currently learning ROS and how to interact and work with drones. 
+
 
 <!--
 **brabiei21/brabiei21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
